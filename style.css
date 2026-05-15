@@ -1487,6 +1487,8 @@ a.detail-value:hover { color: var(--blue-bright); }
 @media (max-width: 768px) {
   :root { --section-py: 56px; --nav-h: 64px; }
 
+  .logo-img { height: 52px; }
+
   .nav-links { display: none; }
   .hamburger { display: flex; }
 
